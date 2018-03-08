@@ -1,0 +1,22 @@
+PODS:
+  - emoji_availability (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - emoji_availability (from `Pods/.symlinks/plugins/emoji_availability/ios`)
+  - Flutter (from `Pods/.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  emoji_availability:
+    :path: Pods/.symlinks/plugins/emoji_availability/ios
+  Flutter:
+    :path: Pods/.symlinks/flutter/ios
+
+SPEC CHECKSUMS:
+  emoji_availability: 3a2bdd7dd90c14ca7c9528710e9a9f503d818b0e
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: 0420ab312a523ae0eecfb1fc19ea51dd82cc17c7
+
+COCOAPODS: 1.3.1
