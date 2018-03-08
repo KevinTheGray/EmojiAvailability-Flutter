@@ -53,8 +53,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
-class EmojiData {
-  final String name;
-
-}
